@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectKey">
+    <option name="state" value="project://63537948-39a4-48a0-9c97-34259a0fa913" />
+  </component>
+  <component name="ProjectResources">
+    <resource url="hibernate-configuration4" location="$APPLICATION_HOME_DIR$/plugins/Hibernate/lib/hibernate.jar!/resources/schemas/hibernate-configuration-4.0.xsd" />
+    <resource url="hibernate-mapper4" location="$APPLICATION_HOME_DIR$/plugins/Hibernate/lib/hibernate.jar!/resources/schemas/hibernate-mapping-4.0.xsd" />
+    <resource url="log4j" location="$PROJECT_DIR$/lib/log4j.jar!/org/apache/log4j/xml/log4j.dtd" />
+    <resource url="mybatis" location="Z:/dtd文件资源/mybatis-3-config.dtd" />
+    <resource url="mybatis-mapper" location="Z:/dtd文件资源/mybatis-3-config.dtd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

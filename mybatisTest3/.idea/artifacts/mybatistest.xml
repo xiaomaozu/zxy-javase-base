@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="mybatistest">
+    <output-path>$PROJECT_DIR$/out/artifacts/mybatistest</output-path>
+    <root id="archive" name="mybatistest.ear" />
+  </artifact>
+</component>
